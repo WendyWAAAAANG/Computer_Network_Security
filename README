@@ -1,0 +1,5 @@
+Readfile: Please make sure that you have three txt separately, buf.txt, key.txt, and iv.txt.
+
+Then you should change the addresses of these three txt to the current address manually.
+
+If you cannot read file successfully, please input ulimit -c or add ulimit -c into the end of file whose address is /etc/profile.
